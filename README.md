@@ -15,7 +15,7 @@ python main.py
 
 * simulating random walk in the entry point.
 * calculating normalized ranges (R/S)
-* approximating the n -> R/S dependance as a linear regrassion(approximating __H__ and __C__)
+* approximating the n -> R/S dependance as a linear regression(approximating __H__ and __C__)
 * plotting the Hurst estimation compared to a _H=0.5_(limit value for a brownian motion)
 
 ### Ranges and normalized range
