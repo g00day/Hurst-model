@@ -1,7 +1,7 @@
 
 # Hurst model estimation
 
-Easy implementation of Hurst model for estimating the time series memory and folowing to some trend - μ.
+Easy implementation of Hurst model for estimating the time series memory and following to some trend - μ.
 
 ![Hurst R/S Regression Plot](assets/rs_regression.png)
 
@@ -15,8 +15,8 @@ python main.py
 
 * simulating random walk in the entry point.
 * calculating normalized ranges (R/S)
-* approximating the n -> R/S dependance as a linear regression(approximating __H__ and __C__)
-* plotting the Hurst estimation compared to a _H=0.5_(limit value for a brownian motion)
+* approximating the n -> R/S dependence as a linear regression(approximating __H__ and __C__)
+* plotting the Hurst estimation compared to _H=0.5_(limit value for a brownian motion)
 
 ### Ranges and normalized range
 
